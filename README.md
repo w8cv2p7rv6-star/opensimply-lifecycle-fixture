@@ -1,4 +1,4 @@
-﻿# OpenSimply lifecycle fixture
+# OpenSimply lifecycle fixture
 
 A harmless public Node CLI used only to validate OpenSimply managed-source setup, update, and rollback behavior.
 
