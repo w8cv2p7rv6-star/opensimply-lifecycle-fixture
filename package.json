@@ -1,0 +1,9 @@
+﻿{
+  "name": "opensimply-lifecycle-fixture",
+  "version": "1.0.0",
+  "description": "Deterministic public fixture for OpenSimply lifecycle validation.",
+  "license": "MIT",
+  "engines": { "node": ">=18" },
+  "bin": { "opensimply-lifecycle-fixture": "bin/cli.js" },
+  "dependencies": { "commander": "14.0.1" }
+}
